@@ -1,0 +1,1 @@
+{"version":3,"file":"reviewRoutes.js","sourceRoot":"","sources":["../../src/routers/reviewRoutes.ts"],"names":[],"mappings":";;AAAA,qCAAiC;AACjC,6CAAkD;AAClD,qEAAqF;AAErF,MAAM,MAAM,GAAG,IAAA,gBAAM,GAAE,CAAC;AAExB,MAAM,CAAC,IAAI,CAAC,uBAAuB,EAAE,mBAAY,EAAE,mCAAgB,CAAC,CAAC;AACrE,MAAM,CAAC,GAAG,CAAC,uBAAuB,EAAE,oCAAiB,CAAC,CAAC;AAEvD,kBAAe,MAAM,CAAC"}
